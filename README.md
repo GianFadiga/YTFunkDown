@@ -36,11 +36,9 @@ Você pode baixar o FFmpeg aqui: [ffmpeg.org/download.html](https://ffmpeg.org/d
 ### 1️⃣ Clonar o Repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/GianFadiga/YTFunkDown.git
+cd YTFunkDown
 ```
-
-Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelo seu nome de usuário e nome do repositório.
 
 ---
 
