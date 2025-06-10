@@ -28,6 +28,7 @@ seu_projeto_YTFunkDown/
 > 🛠️ O YTFunkDown procura o `ffmpeg.exe` especificamente em `ffmpeg/bin/`. Certifique-se de manter essa estrutura.
 
 Você pode baixar o FFmpeg aqui: [ffmpeg.org/download.html](https://ffmpeg.org/download.html)
+Entre na aba de windows e baixe o exe, ele terá toda a estrutura necessária conforme mostrado aqui.
 
 ---
 
