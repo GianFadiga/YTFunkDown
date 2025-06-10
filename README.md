@@ -1,6 +1,7 @@
 # 🎵 YTFunkDown
 
 YTFunkDown é uma aplicação simples que permite baixar vídeos do YouTube em formato MP3 com uma interface gráfica amigável. Ideal para quem quer suas músicas favoritas no computador, rápido e sem complicações.
+A ferramenta por si só permite o donwload, mas a relação de direitos autoriais dos autores deve ser levada em consideração.
 
 ---
 
